@@ -78,7 +78,7 @@ const houseData = [
     let newVideoSource = `video/House-${targetSource}.mp4`;
 
     //
-//lightBox.classList.add("show-lightbox");
+lightBox.classList.add("show-lightbox");
     //gotImage.src = newImageSource;
 
     //gotImage.display();
